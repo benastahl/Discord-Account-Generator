@@ -1,0 +1,6 @@
+{
+  "headless_browser": false,
+  "capMonster_api_key": "",
+  "simple_api_access_token": "",
+  "catchall": "email:pass GMAIL ONLY"
+}
